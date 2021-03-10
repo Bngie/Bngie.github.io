@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Bngie"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : ""
   location         : "Jeju, South Korea/ Calgary, Canada"
   email            : "angie.giwoo.an@gmail.com"
   links:
