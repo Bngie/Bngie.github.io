@@ -1,0 +1,19 @@
+---
+layout: single
+title: "[Econometrics] Regression Discontinuity Design (RDD)"
+tags: [Econometrics, RDD]
+---
+
+#Regression Discontinuity Design (RDD)
+
+Regression Dicontinuity(RD) : designs exploit precise knowledge of the rules determining treatment.
+It is based on the idea that in a highly rule-based world, some rules are arbitrary and therefore provide good experiments. 
+
+- RDD는 다양한 경계선을 활용하여 인과관계에 다가서는 Natural Experiment 기법이다.
+
+# 1. Sharp RDD
+ex) What if you were to run a regression of local violence on an indicator of 
+whether the local elected politician was a member of such a regional party? 
+Would you expect to uncover a causal effect?
+  R_i = {1,0}
+# 2. Fuzzy RDD 
